@@ -11,7 +11,9 @@ Earthquake data visualisation - DBol Jan 2025.pptx - Presentation of visualisati
 Earthquake data visualisation - DBol Jan 2025.pdf - Pdf of presentation of visualisations 
 
 
+
 Summary:
+
 F Rahman has set up a continuous data set on Kaggle containing details of all earthquakes that have happened in the last 30 days from USGS (U.S Geological Survey) real-time notifications, feeds and web services about earthquakes.
 Dataset downloaded for analysis covers 17 Dec 24 – 16 Jan 25
 
